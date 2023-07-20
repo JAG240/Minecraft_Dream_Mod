@@ -19,8 +19,6 @@ import net.yippika.dreammod.DreamMod;
 import net.minecraft.world.entity.player.Player;
 import net.yippika.dreammod.items.ModItems;
 
-import java.time.chrono.MinguoEra;
-
 public class ModEvents {
     @Mod.EventBusSubscriber(modid = DreamMod.MODID)
     public static class ForgeEvent{
